@@ -1,0 +1,12 @@
+
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+mysql-connector-python
+scipy
+scikit-learn
+statsmodels
+pydeck
+reportlab
